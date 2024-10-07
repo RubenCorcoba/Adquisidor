@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pyparsing
+python-dateutil
+six
+pandas
+pyserial
+ipympl
+scipy
+jupyter
